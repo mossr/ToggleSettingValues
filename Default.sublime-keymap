@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["alt+w"],
+        "keys": ["alt+f1"],
         "command": "toggle_setting_values", "args": {"setting": "draw_white_space", "values": ["all", "selection"]}
     },
 ]
